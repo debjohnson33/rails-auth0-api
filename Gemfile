@@ -47,3 +47,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'faker', '~> 1.7.2'
 gem 'active_model_serializers', '~> 0.10.0'
 gem 'knock', '~> 2.0'
+gem 'railties', '>= 5.2.2.1'
